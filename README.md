@@ -1,4 +1,4 @@
-# fireblogs
+# twinkleblogs
 
 ## Project setup
 ```
