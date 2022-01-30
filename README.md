@@ -1,4 +1,4 @@
-# twinkleblogs
+# Twinkleblogs
 
 ## Project setup
 ```
